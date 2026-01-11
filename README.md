@@ -2,6 +2,16 @@
 
 
 
+<p align="center">
+
+&nbsp; <img src="images/World-Avatar.png" width="200">
+
+</p>
+
+
+
+
+
 This repository belongs to World..redacted and is used for coursework in CSC256, Software Quality Assurance. The purpose of this repo is to practice setting up a proper development and testing environment while learning the fundamentals of software quality, testing strategies, and reliability in modern software systems.
 
 
