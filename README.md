@@ -27,4 +27,12 @@ The work in this repository focuses on understanding how testing tools, version 
 This project uses Python with a virtual environment to ensure consistent dependencies across systems. Testing tools such as pytest and a simple web framework are included to support test-driven development concepts that will be explored throughout the course. Additional files and folders will be added as assignments progress and new quality assurance concepts are introduced.
 
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI_Assistant-black?logo=githubcopilot&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-AI_IDE-blueviolet)
+![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-green?logo=mermaid&logoColor=white)
+
+
 
