@@ -1,4 +1,4 @@
-\# CSC256 – Software Quality Assurance
+# CSC256 – Software Quality Assurance
 
 
 
@@ -20,7 +20,7 @@ The work in this repository focuses on understanding how testing tools, version 
 
 
 
-\## Project Structure and Tools
+## Project Structure and Tools
 
 
 
