@@ -16,7 +16,7 @@ This repository belongs to World..redacted and is used for coursework in CSC256,
 
 
 
-The work in this repository focuses on understanding how testing tools, version control, and structured project organization contribute to higher-quality software. Emphasis is placed on learning how automated tests, documentation, and repeatable environments help reduce errors and improve maintainability. We will be using Agile sprints, so I will learn to work on a team and use different GitHub flow features.
+The work in this repository focuses on understanding how testing tools, version control, and structured project organization contribute to higher-quality software. Emphasis is placed on learning how automated tests, documentation, and repeatable environments help reduce errors and improve maintainability. We will be using Agile sprints, so I will learn to work on a team and use different GitHub flow features. I hope to become a better Python developer with the skills I learn this semester! 
 
 
 
