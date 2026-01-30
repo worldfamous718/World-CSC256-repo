@@ -1,6 +1,5 @@
-![Eureka Moment](../images/Eureka.png)
 # Sprint 1 Reflection – Foundations, TDD, and API Design
-
+![Eureka Moment](../images/Eureka.png)
 ## Overview
 
 This reflection summarizes my experience completing Sprint 1, including what I learned, where I struggled, and how I worked through the challenges to successfully build and test a Flask-based API using Test-Driven Development (TDD).
